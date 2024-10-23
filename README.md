@@ -1,2 +1,9 @@
-# html-practica_1-
-Cristian Salas De La O 3-W
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>TItulo/Django</h1>
+<p>Salas De La O Cristian David.</p>
+<p>1214</p>
+</body>
+</html>
